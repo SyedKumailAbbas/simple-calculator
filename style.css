@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
+.container{
+    margin-top: 12%;
+    background-color: red;
+}
+button{
+
+}
+
+input{
+    
+}
